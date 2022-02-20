@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:sh01Zahorulko"
         mc:Ignorable="d"
-        Title="Birthday" Height="450" Width="800">
+        Title="Birthday" Height="450" Width="1000">
     <Window.Resources>
         <Style TargetType="TextBlock">
             <Setter Property="FontSize" Value="30"/>
